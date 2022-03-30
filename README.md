@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @nazar-code
+- 👀 I’m working on blockchain tools for Cardano. 
+- 🌱 I’m currently learning Haskell, React.js, Express.js
